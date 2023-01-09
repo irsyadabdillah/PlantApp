@@ -1,2 +1,2 @@
 # PlantApp
-Plant App Ui with swiftUI
+Plant App U with swiftUI
